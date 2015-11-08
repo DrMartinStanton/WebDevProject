@@ -1,0 +1,17 @@
+h1{
+	color: red;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 48px;
+}
+.navigation {
+	color: blue;
+	font-family: "Times New Roman", Times, serif;
+}
+.picture-section {
+	color: green;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.top-section p {
+	color: gray;
+	font-family: "Courier New", Courier, monospace;
+}
